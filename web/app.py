@@ -10,7 +10,7 @@ def mainmenu():
     <html>
     <body>
     <center><h1>Aro World! from AWS CodeDeploy.</h1><br/>
-    <h2>ハロハロは本当でハワイで売っているのか？！</h2>
+    <p>ハロハロは本当でハワイで売っているのか？！</p>
     </body>
     </html>"""
 
